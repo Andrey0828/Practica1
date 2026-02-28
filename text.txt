@@ -1,1 +1,1 @@
-Hello world from master!
+Hello from new_branch!
